@@ -1,4 +1,4 @@
-<H3> Aim </H3>
+<H3> <U> Aim </U></H3>
 To give a gentle introduction to the fundamentals of regression and build a simple linear
 regression model in python.
 Data Description
@@ -34,11 +34,11 @@ a practical explanation.
 7. Building a Simple Linear Regression model <br/>
 8. Understanding Interpolation and Extrapolation <br/>
 9. What are Lurking Variables? <br/>
-10.Derivation for Least Square Estimates <br/>
+10. Derivation for Least Square Estimates <br/>
 11. The Gauss Markov Theorem <br/>
-12.Point estimators of Regression <br/>
-13.Sampling distributions of Regression coefficients <br/>
-14.F- Statistics <br/>
-15.Anova Partitioning <br/>
-16.Coefficient of Determination(R-Squared) <br/>
-17.Diagnostic and Remedial Measures <br/>
+12. Point estimators of Regression <br/>
+13. Sampling distributions of Regression coefficients <br/>
+14. F- Statistics <br/>
+15. Anova Partitioning <br/>
+16. Coefficient of Determination(R-Squared) <br/>
+17. Diagnostic and Remedial Measures <br/>
