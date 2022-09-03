@@ -7,7 +7,7 @@ from different clubs, and it provides data over ten features with a number of go
 target variable.
 
 <H3> Tech Stack </H3>
-
+<b/>
 ➔ Language: Python <b/>
 ➔ Libraries: pandas, statsmodel, seaborn, matplotlib, sklearn, scipy <b/>
 
@@ -42,4 +42,3 @@ a practical explanation.
 15.Anova Partitioning <b/>
 16.Coefficient of Determination(R-Squared) <b/>
 17.Diagnostic and Remedial Measures <b/>
-
