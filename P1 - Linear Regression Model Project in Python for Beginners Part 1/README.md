@@ -7,8 +7,10 @@ from different clubs, and it provides data over ten features with a number of go
 target variable.
 
 <H3> Tech Stack </H3>
+<p>
 ➔ Language: Python
 ➔ Libraries: pandas, statsmodel, seaborn, matplotlib, sklearn, scipy
+</p>
 
 <H3> Approach </H3>
 This project starts with a real-life example for regression analysis, with an introduction to
@@ -22,6 +24,7 @@ explained. The project ends with diagnostics and remedial measures for regressio
 a practical explanation.
 
 <H3> Project Takeaways </H3>
+<p>
 1. What is Regression?
 2. Types of Regression
 3. What is Mean, Variance, and Standard Deviation?
@@ -39,3 +42,4 @@ a practical explanation.
 15.Anova Partitioning
 16.Coefficient of Determination(R-Squared)
 17.Diagnostic and Remedial Measures
+</p>
