@@ -1,4 +1,4 @@
-<H3> <u> Aim </u></H3>
+<u><H3>  Aim </H3></u>
 To give a gentle introduction to the fundamentals of regression and build a simple linear
 regression model in python.
 Data Description
