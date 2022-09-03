@@ -1,14 +1,16 @@
-<H1> Aim </H1>
+<H3> Aim </H3>
 To give a gentle introduction to the fundamentals of regression and build a simple linear
 regression model in python.
 Data Description
 The dataset used is the soccer player dataset. It has information about various players
 from different clubs, and it provides data over ten features with a number of goals as the
 target variable.
-Tech Stack
+
+<H3> Tech Stack </H3>
 ➔ Language: Python
 ➔ Libraries: pandas, statsmodel, seaborn, matplotlib, sklearn, scipy
-Approach
+
+<H3> Approach </H3>
 This project starts with a real-life example for regression analysis, with an introduction to
 simple and multiple linear regression. Building the statistical foundation for the
 regression, it gives you a brief idea of the formula of regression. With this background,
@@ -18,7 +20,8 @@ estimators of mean and variance and distributions of underlying parameters are a
 discussed. The coefficient of determination is also known, and R squared is briefly
 explained. The project ends with diagnostics and remedial measures for regression with
 a practical explanation.
-Project Takeaways
+
+<H3> Project Takeaways </H3>
 1. What is Regression?
 2. Types of Regression
 3. What is Mean, Variance, and Standard Deviation?
