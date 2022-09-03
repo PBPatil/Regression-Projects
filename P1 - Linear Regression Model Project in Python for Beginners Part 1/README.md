@@ -7,9 +7,9 @@ from different clubs, and it provides data over ten features with a number of go
 target variable.
 
 <H3> Tech Stack </H3>
-<b/>
-➔ Language: Python <b/>
-➔ Libraries: pandas, statsmodel, seaborn, matplotlib, sklearn, scipy <b/>
+
+➔ Language: Python <br/>
+➔ Libraries: pandas, statsmodel, seaborn, matplotlib, sklearn, scipy <br/>
 
 
 <H3> Approach </H3>
@@ -25,20 +25,20 @@ a practical explanation.
 
 <H3> Project Takeaways </H3>
 
-1. What is Regression? <b/>
-2. Types of Regression <b/>
-3. What is Mean, Variance, and Standard Deviation? <b/>
-4. Correlation and Causation <b/>
-5. What are Observational and Experimental data? <b/>
-6. Formula for Regression <b/>
-7. Building a Simple Linear Regression model <b/>
-8. Understanding Interpolation and Extrapolation <b/>
-9. What are Lurking Variables? <b/>
-10.Derivation for Least Square Estimates <b/>
-11. The Gauss Markov Theorem <b/>
-12.Point estimators of Regression <b/>
-13.Sampling distributions of Regression coefficients <b/>
-14.F- Statistics <b/>
-15.Anova Partitioning <b/>
-16.Coefficient of Determination(R-Squared) <b/>
-17.Diagnostic and Remedial Measures <b/>
+1. What is Regression? <br/>
+2. Types of Regression <br/>
+3. What is Mean, Variance, and Standard Deviation? <br/>
+4. Correlation and Causation <br/>
+5. What are Observational and Experimental data? <br/>
+6. Formula for Regression <br/>
+7. Building a Simple Linear Regression model <br/>
+8. Understanding Interpolation and Extrapolation <br/>
+9. What are Lurking Variables? <br/>
+10.Derivation for Least Square Estimates <br/>
+11. The Gauss Markov Theorem <br/>
+12.Point estimators of Regression <br/>
+13.Sampling distributions of Regression coefficients <br/>
+14.F- Statistics <br/>
+15.Anova Partitioning <br/>
+16.Coefficient of Determination(R-Squared) <br/>
+17.Diagnostic and Remedial Measures <br/>
